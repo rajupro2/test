@@ -65,3 +65,4 @@ function installIfNotInstalled {
             echo "************* $name is already installed."
     fi
 }
+
