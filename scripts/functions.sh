@@ -66,3 +66,4 @@ function installIfNotInstalled {
     fi
 }
 
+# Comment
